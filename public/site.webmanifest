@@ -1,0 +1,21 @@
+{
+  "name": "Sportika",
+  "short_name": "Sportika",
+  "description": "The premier platform for athletes to showcase their talent, build their portfolio, and connect with opportunities worldwide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
