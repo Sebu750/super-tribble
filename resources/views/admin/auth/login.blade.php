@@ -15,7 +15,7 @@
     <link rel="manifest" href="/site.webmanifest">
 
     <!-- Tailwind CSS (Play CDN) -->
-    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com/3.4.17"></script>
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -35,9 +35,9 @@
         }
     </style>
 </head>
-<body class="login-bg min-h-screen antialiased">
+<body class="login-bg antialiased" style="min-height:100vh">
 
-    <div class="min-h-screen flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
+    <div class="flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8 relative overflow-hidden" style="min-height:100vh">
 
         <!-- Decorative background elements -->
         <div class="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
